@@ -1,4 +1,4 @@
-# 
+# Advanced liquidity sniper bot workflow for Mac OS | Automatic liquidity sniper bot workflow for PC Windows. Featuring data parsing and stop-loss protection — optimized for maximum performance on every platform.
 
 
 
